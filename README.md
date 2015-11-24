@@ -1,7 +1,7 @@
 ### Multiple xml file generator 
 Excel VBA utility used to generate multiple xml files from the excel data.
 
-> Handly when you need to create multiple data for **data-driven tests** & stuff
+> Handly when you need to create multiple files for **data-driven tests** & stuff.
 
 #### Screenshot: 
 ![alt text][logo]
@@ -21,4 +21,4 @@ Excel VBA utility used to generate multiple xml files from the excel data.
 
 > cheers :)
 
-[logo]: https://raw.githubusercontent.com/sridhareaswaran/master/img/QC.png "excel face"
+[logo]: https://raw.githubusercontent.com/sridhareaswaran/xml-file-generator/master/img/xml%20generator.png "xml generator"
